@@ -106,16 +106,11 @@ Scheduling prototype for staffing and shift rules.<br>
 
 <div align="center">
 
-### GitHub
+### Contributions in motion
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=gptshivam595&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_rank=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptshivam595&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Most used languages" />
-<br>
-<img height="150" src="https://streak-stats.demolab.com?user=gptshivam595&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img width="860" src="https://raw.githubusercontent.com/gptshivam595/my-profile/main/profile-glass/glass-wave.gif" alt="Animated glass-wave contribution graph. Bar height and color follow real daily contribution counts for the labeled 12-month window." />
 
-### 3D contributions
-
-<img width="720" src="https://raw.githubusercontent.com/gptshivam595/my-profile/main/profile-3d-contrib/profile-clean.svg" alt="3D contribution calendar" />
+The bars are real daily contributions. GitHub cannot run a live 3D canvas inside a README, so this is a rendered animation.
 
 </div>
 
