@@ -108,9 +108,9 @@ Scheduling prototype for staffing and shift rules.<br>
 
 ### Contributions in motion
 
-<img width="860" src="https://raw.githubusercontent.com/gptshivam595/my-profile/main/profile-glass/glass-wave.gif" alt="Animated glass-wave contribution graph. Bar height and color follow real daily contribution counts for the labeled 12-month window." />
+The graph is an interactive skyline of the last year of public contributions. It opens as a heat map and folds up into 3D. Hover a day for the count, use the arrow keys to move, or drag to orbit.
 
-The bars are real daily contributions. GitHub cannot run a live 3D canvas inside a README, so this is a rendered animation.
+A GitHub README cannot run that canvas, so the live skyline is the Contributions app, not an image on this page.
 
 </div>
 
