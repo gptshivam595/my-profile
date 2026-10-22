@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:2563eb&height=140&section=header&text=Hi%2C%20I'm%20Shivam&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Hi, I'm Shivam" />
 
-### Aspiring Product Manager | AI & Technology Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Aspiring+Product+Manager;AI+%26+Technology+Enthusiast;From+India+%E2%80%94+open+to+opportunities" alt="Typing intro" />
 
 Turning user problems into thoughtful, AI-powered product experiences by combining user research, product strategy and hands-on technical execution.
 
@@ -13,11 +13,13 @@ Turning user problems into thoughtful, AI-powered product experiences by combini
 
 📍 India · ✉️ [gptshivam595@gmail.com](mailto:gptshivam595@gmail.com) · 🟢 Open to opportunities
 
+<img src="https://pomf2.lain.la/f/unnu7f6a.jpg" alt="Shivam building products" width="100%" />
+
 </div>
 
-<img src="./assets/hero-art.jpg" alt="Shivam building products" width="100%" />
-
 ---
+
+<div align="center">
 
 ## Connect with me
 
@@ -29,28 +31,15 @@ Turning user problems into thoughtful, AI-powered product experiences by combini
 
 > “Build with purpose. Learn through experiments. Make products people love.”
 
+</div>
+
 ---
 
 ## Languages and Tools
 
-<table>
-<tr>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /><br/>Java</td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br/>Python</td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br/>JavaScript</td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br/>TypeScript</td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /><br/>React</td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" /><br/>Spring Boot</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /><br/>MySQL</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" /><br/>HTML</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" /><br/>CSS</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br/>Git</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br/>Docker</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" /><br/>Postman</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,mysql,html,css,git,docker,postman&theme=dark" alt="Languages and tools" />
+</div>
 
 ---
 
@@ -70,7 +59,7 @@ AI-powered evaluation of generated fashion images through multiple Indian person
 <img src="https://img.shields.io/badge/Multi--Agent-6d28d9?style=flat-square" alt="Multi-Agent" />
 <img src="https://img.shields.io/badge/Computer_Vision-4c1d95?style=flat-square" alt="Computer Vision" />
 
-<a href="https://github.com/gptshivam595/VisualEval-MultiAgent"><img src="./assets/visualeval.jpg" width="100%" alt="VisualEval" /></a>
+<a href="https://github.com/gptshivam595/VisualEval-MultiAgent"><img src="https://pomf2.lain.la/f/6fdeorvz.jpg" width="100%" alt="VisualEval" /></a>
 
 [View Project →](https://github.com/gptshivam595/VisualEval-MultiAgent)
 
@@ -85,7 +74,7 @@ Transforms messy B2C lead data into structured, prioritized sales insights.
 <img src="https://img.shields.io/badge/Data_Processing-1d4ed8?style=flat-square" alt="Data Processing" />
 <img src="https://img.shields.io/badge/Sales_Tech-1e40af?style=flat-square" alt="Sales Tech" />
 
-<a href="https://github.com/gptshivam595/AI-b2c-lead-intelligence"><img src="./assets/lead-intel.jpg" width="100%" alt="Lead intelligence" /></a>
+<a href="https://github.com/gptshivam595/AI-b2c-lead-intelligence"><img src="https://pomf2.lain.la/f/f2g41wj3.jpg" width="100%" alt="Lead intelligence" /></a>
 
 [View Project →](https://github.com/gptshivam595/AI-b2c-lead-intelligence)
 
@@ -102,7 +91,7 @@ AI-assisted tool for turning customer feedback into actionable insights.
 <img src="https://img.shields.io/badge/Product_Analytics-7c3aed?style=flat-square" alt="Product Analytics" />
 <img src="https://img.shields.io/badge/AI-4c1d95?style=flat-square" alt="AI" />
 
-<a href="https://github.com/gptshivam595/Customer-feedback-analysis-tool"><img src="./assets/feedback.jpg" width="100%" alt="Customer feedback" /></a>
+<a href="https://github.com/gptshivam595/Customer-feedback-analysis-tool"><img src="https://pomf2.lain.la/f/2bsu2h0y.jpg" width="100%" alt="Customer feedback" /></a>
 
 [View Project →](https://github.com/gptshivam595/Customer-feedback-analysis-tool)
 
@@ -117,7 +106,7 @@ Scheduling application exploring workflow organization and operational efficienc
 <img src="https://img.shields.io/badge/Scheduling-059669?style=flat-square" alt="Scheduling" />
 <img src="https://img.shields.io/badge/Productivity-047857?style=flat-square" alt="Productivity" />
 
-<a href="https://github.com/gptshivam595/clinical-staff-scheduling-compliance"><img src="./assets/scheduling.jpg" width="100%" alt="Clinical scheduling" /></a>
+<a href="https://github.com/gptshivam595/clinical-staff-scheduling-compliance"><img src="https://pomf2.lain.la/f/lfe8e3zx.jpg" width="100%" alt="Clinical scheduling" /></a>
 
 [View Project →](https://github.com/gptshivam595/clinical-staff-scheduling-compliance)
 
@@ -129,23 +118,24 @@ Scheduling application exploring workflow organization and operational efficienc
 
 ## GitHub at a Glance
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=gptshivam595&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptshivam595&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Most used languages" /></td>
-<td><img src="https://streak-stats.demolab.com?user=gptshivam595&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub streak" /></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gptshivam595&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptshivam595&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=gptshivam595&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub streak" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🧊 My 3D Contribution Landscape
 
-<!-- Animated SVG. Appears after the profile-3d workflow runs once. -->
+<img src="https://raw.githubusercontent.com/gptshivam595/my-profile/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Animated 3D contribution landscape" />
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Animated 3D contribution landscape" />
-</p>
+</div>
 
 ---
 
