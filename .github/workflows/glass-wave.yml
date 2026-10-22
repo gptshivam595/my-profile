@@ -1,0 +1,33 @@
+name: Glass Wave
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install renderer dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-liberation
+          pip install pillow
+      - name: Render glass wave
+        run: python3 profile-glass/render_glass_wave.py --out profile-glass/glass-wave.gif
+      - name: Commit graph
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-glass/glass-wave.gif profile-glass/glass-wave.png
+          git diff --staged --quiet || git commit -m "Update glass wave contribution graph"
+          git pull --rebase origin main
+          git push origin main
