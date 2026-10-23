@@ -15,7 +15,7 @@ I turn user problems into AI-powered products — research, strategy, and hands-
 
 <br>
 
-<img src="https://pomf2.lain.la/f/unnu7f6a.jpg" width="520" alt="Building products" />
+<img src="https://pomf2.lain.la/f/unnu7f6a.jpg" width="100" alt="Building products" />
 
 </div>
 
