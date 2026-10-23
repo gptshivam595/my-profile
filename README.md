@@ -106,11 +106,11 @@ Scheduling prototype for staffing and shift rules.<br>
 
 <div align="center">
 
-### Contributions in motion
+### Contributions
 
-The graph is an interactive skyline of the last year of public contributions. It opens as a heat map and folds up into 3D. Hover a day for the count, use the arrow keys to move, or drag to orbit.
+<img width="860" src="https://raw.githubusercontent.com/gptshivam595/my-profile/main/profile-heatmap/heatmap.png" alt="Contribution heatmap. Each square is one day. Darker green means more public contributions." />
 
-A GitHub README cannot run that canvas, so the live skyline is the Contributions app, not an image on this page.
+Real public contributions for the last year. Same calendar, shown as a heat map.
 
 </div>
 
