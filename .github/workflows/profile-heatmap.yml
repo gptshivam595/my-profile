@@ -1,0 +1,36 @@
+name: Contribution heatmap
+
+on:
+  schedule:
+    - cron: "15 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python profile-heatmap/render_heatmap.py
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-heatmap/heatmap.png
+          if git diff --staged --quiet; then
+            echo "No heatmap changes"
+            exit 0
+          fi
+          git commit -m "Update contribution heatmap"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            echo "Push rejected, retry ${attempt}"
+            sleep 3
+          done
+          exit 1
